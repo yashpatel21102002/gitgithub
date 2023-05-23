@@ -16,3 +16,9 @@
 }
 
 12. git push origin master
+
+
+note => we should not commit on the main or the master branch
+
+Not finalized code should go to another branch  so that users that are currently using main branch code doesn't affect.
+
