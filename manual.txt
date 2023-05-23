@@ -22,3 +22,15 @@ note => we should not commit on the main or the master branch
 
 Not finalized code should go to another branch  so that users that are currently using main branch code doesn't affect.
 
+if branch contains head means that it is the current working directory 
+
+now make branching to use this effectively
+
+13. git branch <branch_name>
+
+to allocate the head to that new branch run below command 
+
+14. git checkout <branch_name>
+
+now all new commits and adding will happen to this branch and main or master branch will be unaffected
+
