@@ -34,10 +34,21 @@ to allocate the head to that new branch run below command
 
 now all new commits and adding will happen to this branch and main or master branch will be unaffected
 
-<<<<<<< HEAD
-=======
 you can delete temp branch using below command
 
 15. git branch -D "branch name"
 
->>>>>>> 3fac85f (changes in manual)
+16. git merge <current branch name>
+
+// if you want to give contribution to some project or want to work on the project you should first fork the project into your repo. 
+//after that targeted repo will be stored into you directory
+// now you can clone that directory into your local computer to code
+
+17. git clone <url>
+
+you have to add upstream url from where you have forked the project
+
+18. git remote add upstream <url>
+
+
+
