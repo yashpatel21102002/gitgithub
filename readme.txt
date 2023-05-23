@@ -14,3 +14,6 @@
 11. git remote -v {
 	shows url that are connected to our project
 }
+
+12. git push origin master
+13. 
