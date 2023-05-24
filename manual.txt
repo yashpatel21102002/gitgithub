@@ -50,5 +50,6 @@ you have to add upstream url from where you have forked the project
 
 18. git remote add upstream <url>
 
+19. git fetch --all --prune
 
 
